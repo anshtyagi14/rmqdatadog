@@ -1,4 +1,4 @@
-# Comprehensive Guide to setup RabbitMQ Monitoring with Datadog Integration
+# Comprehensive Guide to setup RabbitMQ monitoring with Datadog Agent 7
 
 ## Prerequisites
 
