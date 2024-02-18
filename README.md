@@ -192,5 +192,3 @@ instances:
 <img src="src/01.png"/>
 
 <img src="src/02.png"/>
-
-This guide has enhanced the clarity of the instructions, organized the steps for a smoother installation and configuration process, and included additional context where necessary. Always ensure to replace the version numbers and configurations according to your specific requirements or the latest available versions.
