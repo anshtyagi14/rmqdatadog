@@ -156,10 +156,10 @@ $ sudo rabbitmqctl set_user_tags admin administrator
 ### Step 4: Installing the Datadog Agent for RabbitMQ Monitoring
 
 1. Install the Datadog Agent
-Follow the official Datadog documentation to install the Datadog agent on your system.
+- Follow the official Datadog documentation to install the Datadog agent on your system.
 
 2. Configure RabbitMQ Integration:
-Configure the Datadog agent to monitor RabbitMQ by editing the conf.yaml file.
+- Configure the Datadog agent to monitor RabbitMQ by editing the conf.yaml file.
 
 ```console
 $ sudo vim /etc/datadog-agent/conf.d/rabbitmq.d/conf.yaml
