@@ -187,7 +187,7 @@ instances:
 ```
 
 3. Enable the RabbitMQ integartion in Datatdog
-- This will enable the already made RabbitMQ dashboard to check if Datadog agent is receiving th data or not
+- This will enable the already made RabbitMQ dashboard to check if Datadog agent is receiving the data or not
 
 <img src="src/01.png"/>
 
