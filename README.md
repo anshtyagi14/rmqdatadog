@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-A system running Ubuntu (the guide assumes commands for Debian-based distributions).
-Sudo privileges for the user executing these commands.
+- A system running Ubuntu (the guide assumes commands for Debian-based distributions).
+- Sudo privileges for the user executing these commands.
 
 ## Initial setup
 
