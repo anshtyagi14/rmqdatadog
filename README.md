@@ -186,4 +186,11 @@ instances:
       url: http://localhost:15692
 ```
 
+3. Enable the RabbitMQ integartion in Datatdog
+- This will enable the already made RabbitMQ dashboard to check if Datadog agent is receiving th data or not
+
+<img src="src/01.png"/>
+
+<img src="src/02.png"/>
+
 This guide has enhanced the clarity of the instructions, organized the steps for a smoother installation and configuration process, and included additional context where necessary. Always ensure to replace the version numbers and configurations according to your specific requirements or the latest available versions.
