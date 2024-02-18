@@ -140,7 +140,7 @@ Create an Admin User
 For RabbitMQ < 3.8 - Management Plugin
 
 ```console
-$ sudo rabbitmqctl add_user datadog <SECRET>
+$ sudo rabbitmqctl add_user datadog admin
 $ sudo rabbitmqctl set_permissions  -p / datadog "^aliveness-test$" "^amq\.default$" ".*"
 $ sudo rabbitmqctl set_user_tags datadog monitoring
 ```
