@@ -133,7 +133,7 @@ $ sudo rabbitmq-plugins enable rabbitmq_prometheus
 $ sudo rabbitmq-plugins list
 ```
 
-Note : On RabbitMQ < 3.8 only ```sudo rabbitmq-plugins enable rabbitmq_management``` can be enabled
+Note : On RabbitMQ < 3.8 only ```rabbitmq_management``` plugin can be enabled
 
 Create an Admin User
 
